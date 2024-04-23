@@ -3,3 +3,11 @@ body {
     font-family: sans-serif;
     padding: 300px;
   }
+  h1{
+    font-family: 'Times New Roman';
+    color: rgb(206, 217, 226);
+  }
+  h2 {
+    font-family: 'Times New Roman';
+    color: black;
+  }
