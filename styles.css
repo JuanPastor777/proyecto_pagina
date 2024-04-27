@@ -7,3 +7,9 @@
     font-family: 'Times New Roman';
     color: black;
   }
+
+ p {
+        color: black;
+        text-align: justify
+      }
+
