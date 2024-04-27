@@ -1,0 +1,11 @@
+.ima {
+    float: left;
+    margin-right: 20px; /* Espacio entre la imagen y el texto */
+  }
+  
+  .aliniar {
+    margin-top: 0; /* Elimina el margen superior por defecto */
+  }
+  h1 {
+    overflow: auto; /* Evita que el texto se superponga a la imagen */
+  }
