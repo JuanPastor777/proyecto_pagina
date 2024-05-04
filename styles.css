@@ -4,15 +4,36 @@
     font-family: 'Times New Roman';
     color: rgb(206, 217, 226);
   }
+  .imagen{
+    float: right;
+    width: 350px;
+  }
+  .imagen_1{
+    float: right;
+    width: 250px;
+  }
+  .cont{
+    position: relative;
+    width: 70%;
+    left: 15%;
+    top: 20%;
+
+  }
   h2 {
     font-family: 'Times New Roman';
     color: black;
   }
 
- p {
+  p{
         color: black;
         text-align: justify
-      }
+   }
+  body {
+   
+        margin: 0;
+        padding: 0;
+}
+    
 
 
    
