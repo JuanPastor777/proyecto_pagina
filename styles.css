@@ -1,19 +1,18 @@
+body {
+  background-color: #28D34F;
+}
 
+h1 {
+  font-family: 'Times New Roman';
+  color: rgb(206, 217, 226);
+}
 
-  h1{
-    font-family: 'Times New Roman';
-    color: rgb(206, 217, 226);
-  }
-  h2 {
-    font-family: 'Times New Roman';
-    color: black;
-  }
+h2 {
+  font-family: 'Times New Roman';
+  color: black;
+}
 
- p {
-        color: black;
-        text-align: justify
-      }
-
-
-   
-
+p {
+  color: black;
+  text-align: justify;
+}
