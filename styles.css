@@ -41,12 +41,10 @@ body{
     width: 80%;
     left: 5%;
     top: 10%;
-
   }
   h2 {
     font-family: 'Times New Roman';
-    color: black;
-    
+    color: black;    
   }
 
   p{
@@ -103,5 +101,5 @@ li{
 .video{
   text-align: center;
   margin: auto;
-
+  }
 
