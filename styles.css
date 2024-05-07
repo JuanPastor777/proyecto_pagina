@@ -1,14 +1,105 @@
-body {
-    background-image: url(https://i5.walmartimages.com/seo/Scooby-Doo-Where-Are-You-The-Complete-Series-DVD_bac2aea9-9edf-4de8-8ead-a2b1a41780f4.43fe1cf2dfc07851ad46f9275ae01e4e.jpeg);
-    font-family: sans-serif;
-    padding: 300px;
-  }
+
+body{
+  background-image: url(https://image.tmdb.org/t/p/original/dOjT0Vpmvs6Fc8xBp5RDZAJVFEL.jpg);
+  font-family: sans-serif;
+  padding: 20px;
+  margin: 0;
+}
+.block{
+  width: 70%;
+  background-color: #a6f7f7 ;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  max-width: 1000px;
+
+}
   h1{
-    
     font-family: 'Times New Roman';
-    color: rgb(4, 16, 26);
+    color: aliceblue;
+  }
+  .imagen{
+    float: right;
+    width: 350px;
+    margin-left: 15px;
+  }
+  .imagen_1{
+    float: right;
+    width: 200px;
+    margin-left: 15px;
+  }
+  .imagen_2{
+    margin: auto;
+    width: 250px;
+    left: 5%;
+    top: 10%;
+    margin-left: 40px;
+  
+  }
+  .cont{
+    position: relative;
+    width: 80%;
+    left: 5%;
+    top: 10%;
   }
   h2 {
     font-family: 'Times New Roman';
-    color: black;
+    color: black;    
   }
+
+  p{
+    color: black;
+    text-align: justify;
+    width: 95%;
+    left: 20%;
+    top: 30%;
+
+   }
+hr{
+  height: 2px;
+  background-color: rgb(209, 230, 19);
+  border-color: rgb(209, 230, 19);
+  margin: 2px;
+}
+.titulos{
+  background-color: #20b1e6;
+  margin: 0;
+
+}
+header{
+  display: flex;
+  justify-content: center;
+  background-color: #48e970;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  max-width: 1000px;
+}
+.imp{
+  font-family: Lucida;
+  color: orange;
+  font-size: 45px;
+}
+li{
+  color: black;
+  font-weight: bold;
+    text-align: justify;
+    width: 95%;
+    left: 20%;
+    top: 30%;
+
+}
+.yo{
+  text-align: center;
+
+}
+.list{
+  margin-left: 20px;
+  margin-right: 35px;
+
+}
+.video{
+  text-align: center;
+  margin: auto;
+  }
+
