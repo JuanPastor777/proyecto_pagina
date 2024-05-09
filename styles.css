@@ -70,11 +70,20 @@ hr{
 header{
   display: flex;
   justify-content: center;
-  background-color: #48e970;
+  background-color: #c4c4c4;
   margin-left: auto;
   margin-right: auto;
   padding: 30px;
   max-width: 1000px;
+}
+.Logo{
+  display: flex;
+  align-items: center;
+}
+.Logo img {
+  height: 200px;
+  width: 600px;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); 
 }
 .imp{
   font-family: Lucida;
@@ -103,4 +112,41 @@ li{
   text-align: center;
   margin: auto;
   }
+a{
+  color: black;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: #c4c4c4;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  max-width: 1500px;
+  height: 200px;
+}
 
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.logo img {
+  width: 300px;
+  height: auto;
+  margin: 30px;
+}
+
+.autores  {
+  text-align: center;
+  margin: 30px;
+  font-size: 12px;
+}
+.derechos{
+  text-align: left;
+  color: black;
+    margin: 30px;
+}
