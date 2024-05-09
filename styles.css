@@ -41,12 +41,10 @@ body{
     width: 80%;
     left: 5%;
     top: 10%;
-
   }
   h2 {
     font-family: 'Times New Roman';
-    color: black;
-    
+    color: black;    
   }
 
   p{
@@ -66,6 +64,7 @@ hr{
 .titulos{
   background-color: #20b1e6;
   margin: 0;
+  text-align: left;
 
 }
 header{
@@ -103,5 +102,5 @@ li{
 .video{
   text-align: center;
   margin: auto;
-
+  }
 
